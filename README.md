@@ -1,0 +1,1 @@
+The dataset of images needed for training the model is available [here](https://drive.google.com/drive/folders/168LXEKSIK6Z1b9u97bQ6X2JNq56-8L4o?usp=sharing).
